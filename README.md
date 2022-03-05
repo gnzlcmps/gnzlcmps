@@ -1,1 +1,1 @@
-<h3>Hi! ✌️<br>I'm Gonzalo Campos<br>I am a software engineer under construction 🚀</h3>
+<h3>Hi! ✌️<br>I'm Gonzalo Campos<br>Please put on your hard hat, this is the profile of a software engineer under construction 👷‍♂️🏗️</h3>
